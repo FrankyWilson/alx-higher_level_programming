@@ -1,5 +1,6 @@
 #0x00. Python - Hello, World
-## Author disclaimer
+
+*Author disclaimer*
 Welcome to the Python world!
 
 The first projects are more "C-oriented" - no tricks, no funky syntax - simple!
