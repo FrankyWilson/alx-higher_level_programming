@@ -1,6 +1,6 @@
-#0x00. Python - Hello, World
+##0x00. Python - Hello, World
 
-*Author disclaimer*
+*Au*thor disclaimer**
 Welcome to the Python world!
 
 The first projects are more "C-oriented" - no tricks, no funky syntax - simple!
